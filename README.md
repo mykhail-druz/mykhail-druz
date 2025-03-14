@@ -1,23 +1,23 @@
 # 👋 Hi, I’m Mykhail!  
 ## Frontend Developer from Kyiv 🇺🇦  
 
-Hello! My name is Mykhail (he/him), and I’m a passionate frontend developer who loves turning ideas into beautiful and functional web interfaces. I’m based in Kyiv and constantly learning to build modern solutions using JavaScript, TypeScript, and other exciting technologies.
+Hello! My name is Mykhail, and I’m a passionate frontend developer who loves turning ideas into beautiful and functional web interfaces. I’m based in Kyiv and constantly learning to build modern solutions using JavaScript, TypeScript, and other exciting technologies.
 
 ---
 
 ### 🛠️ My Skills  
 - **Languages**: JavaScript (ES6+), TypeScript  
 - **Frameworks & Libraries**: React, Next.js  
-- **Tools**: Git, Webpack, Vite  
+- **Tools**: Git, Webpack
 - **Other**: HTML5, CSS3, Responsive Design  
 
 ---
 
 ### 🌟 About Me  
 - 🎓 Always learning new technologies and sharing knowledge.  
-- 💻 Worked on projects ranging from landing pages to portfolios.  
+- 💻 Worked on projects ranging from landing pages to ecommerce.  
 - 🌱 Inspired by nature, cats, and clean code.  
-- 📫 Reach out to me: [mykhail-druz@gmail.com](mailto:mykhail-druz@gmail.com)  
+- 📫 Reach out to me: [dda3127@gmail.com](mailto:dda3127@gmail.com)  
 
 ---
 
