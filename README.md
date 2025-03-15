@@ -50,8 +50,8 @@ Here are some projects I’m proud of (pinned above):
 ### 📫 Let’s Connect!  
 Got an idea or just wanna chat about code, games, or music? Reach out:  
 - ![Gmail](./assets/gmail.png) [dda3127@gmail.com](mailto:dda3127@gmail.com)
-- ![Gmail](./assets/gmail.png) [Discord](https://discordapp.com/users/424606098033606670)
-- ![Gmail](./assets/gmail.png) [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
+- ![Discord](./assets/discord.png) [Discord](https://discordapp.com/users/424606098033606670)
+- ![Upwork](./assets/upwork.png) [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
 
 Give my projects a ⭐ if you like them—it really makes my day!  
 
