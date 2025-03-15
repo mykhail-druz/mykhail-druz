@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mykhail!  
-## Frontend Developer from Kyiv 🇺🇦  
+## Frontend Developer from Kyiv 🇺🇦 
 
 Hello! My name is Mykhail, and I’m a passionate frontend developer who loves turning ideas into beautiful and functional web interfaces. I’m based in Kyiv and constantly learning to build modern solutions using JavaScript, TypeScript, and other exciting technologies.
 
@@ -30,7 +30,6 @@ Here are a few projects I’m proud of (check them out in the "Pinned" section a
 
 ### 📈 GitHub Stats  
 ![Mykhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mykhail-druz&show_icons=true&theme=dark)  
-*Note: You can add this stat by using a service like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — replace `mykhail-druz` with your username.*  
 
 ---
 
@@ -43,7 +42,7 @@ Here are a few projects I’m proud of (check them out in the "Pinned" section a
 
 ### ⚡ Fun Facts  
 - I love cats (as you can see from my avatar 😸).  
-- My first line of code was written in 2022.  
+- My first line of code was written in 2015.  
 - A fan of coffee and long walks around Kyiv.  
 
 ---
@@ -51,8 +50,12 @@ Here are a few projects I’m proud of (check them out in the "Pinned" section a
 ### 📌 Support Me  
 If you like my projects, give them a ⭐ on GitHub or share them!  
 You can also support me via:  
-- [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
-- Or just drop me a kind message!  
+- [Upwork]([https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1](https://www.upwork.com/freelancers/~016ee239ce423c4bb7?mp_source=share))  
+- Or just drop me a kind message!
+
+---
+
+![Coding Animation]([https://media.giphy.com/media/3o7TKRDnWobgaY5HHi/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlqZmY1bDNqcDhxN3cyaGRxN3lucmVoZ3g4b2tkaWhmMm5iaWZ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif))
 
 ---
 
