@@ -27,6 +27,7 @@ Here are some projects I’m proud of (pinned above):
 - **[trackly-saas](https://github.com/mykhail-druz/trackly-saas)** - A sleek landing page with a modern vibe.
 - **[xpense-starter](https://github.com/mykhail-druz/xpense-starter)** - SaaS Money Tracker
 - **[claim-your-pcp](https://github.com/mykhail-druz/claim-your-pcp)** - Car Financial Solicitors
+- **[rentouts](https://github.com/mykhail-druz/rentouts)** - Modular, component-driven architecture for easy scalability
 - **[portfolio-website](https://github.com/mykhail-druz/portfolio-website)** - My personal portfolio to showcase my creations.
 
 
@@ -48,9 +49,9 @@ Here are some projects I’m proud of (pinned above):
 
 ### 📫 Let’s Connect!  
 Got an idea or just wanna chat about code, games, or music? Reach out:  
-- 📧 [dda3127@gmail.com](mailto:dda3127@gmail.com)
+- [![PinkMail](https://cdn3.emoji.gg/emojis/58736-pinkmail.gif)](https://emoji.gg/emoji/58736-pinkmail) [dda3127@gmail.com](mailto:dda3127@gmail.com)
 - [![Bee](https://cdn3.emoji.gg/emojis/4819-bee.gif)](https://emoji.gg/emoji/4819-bee) [Discord](https://discordapp.com/users/424606098033606670)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
+- [![upwork](https://cdn3.emoji.gg/emojis/5046-upwork.png)](https://emoji.gg/emoji/5046-upwork) [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
 
 Give my projects a ⭐ if you like them—it really makes my day!  
 
