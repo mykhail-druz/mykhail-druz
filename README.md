@@ -49,31 +49,11 @@ Here are some projects I’m proud of (pinned above):
 
 ### 📫 Let’s Connect!  
 Got an idea or just wanna chat about code, games, or music? Reach out:  
+- 📧 [dda3127@gmail.com](mailto:dda3127@gmail.com)  
+- [![Bee](https://cdn3.emoji.gg/emojis/4819-bee.gif)](https://emoji.gg/emoji/4819-bee) [Discord](https://discordapp.com/users/424606098033606670)  
+- 💼 [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:dda3127@gmail.com">
-        <img src="./assets/gmail.png" alt="Gmail" width="30" style="vertical-align:middle;">
-      </a>
-      <a href="mailto:dda3127@gmail.com">dda3127@gmail.com</a>
-    </td>
-    <td align="center">
-      <a href="https://discordapp.com/users/424606098033606670">
-        <img src="./assets/discord.png" alt="Discord" width="30" style="vertical-align:middle;">
-      </a>
-      <a href="https://discordapp.com/users/424606098033606670">Discord</a>
-    </td>
-    <td align="center">
-      <a href="https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1">
-        <img src="./assets/upwork.png" alt="Upwork" width="30" style="vertical-align:middle;">
-      </a>
-      <a href="https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1">Upwork</a>
-    </td>
-  </tr>
-</table>
-
-Give my projects a ⭐ if you like them—it really makes my day!  
+Give my projects a ⭐ if you like them—it really makes my day!
 
 ---
 
