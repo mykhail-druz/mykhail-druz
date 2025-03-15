@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mykhail!  
-## Frontend Developer from Kyiv 🇺🇦 
+## Frontend Developer from Kyiv 🇺🇦  
 
 Hello! My name is Mykhail, and I’m a passionate frontend developer who loves turning ideas into beautiful and functional web interfaces. I’m based in Kyiv and constantly learning to build modern solutions using JavaScript, TypeScript, and other exciting technologies.
 
@@ -8,8 +8,24 @@ Hello! My name is Mykhail, and I’m a passionate frontend developer who loves t
 ### 🛠️ My Skills  
 - **Languages**: JavaScript (ES6+), TypeScript  
 - **Frameworks & Libraries**: React, Next.js  
-- **Tools**: Git, Webpack
+- **Tools**: Git, Webpack  
 - **Other**: HTML5, CSS3, Responsive Design  
+
+---
+
+### 💻 My Tech Stack  
+| Languages & Frameworks | Styling | Tools & Build | Deployment |
+|------------------------|---------|---------------|------------|
+| ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) | ![Webpack](https://skillicons.dev/icons?i=webpack) | ![Netlify](https://skillicons.dev/icons?i=netlify) |
+| ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Sass](https://skillicons.dev/icons?i=sass) | ![Rollup](https://skillicons.dev/icons?i=rollup) | ![Vercel](https://skillicons.dev/icons?i=vercel) |
+| ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Stylus](https://skillicons.dev/icons?i=stylus) | ![Vite](https://skillicons.dev/icons?i=vite) | ![Railway](https://skillicons.dev/icons?i=railway) |
+| ![Vue.js](https://skillicons.dev/icons?i=vue) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) | ![ESLint](https://skillicons.dev/icons?i=eslint) | ![Render](https://skillicons.dev/icons?i=render) |
+| ![Nuxt.js](https://skillicons.dev/icons?i=nuxt) | ![UnoCSS](https://skillicons.dev/icons?i=unocss) | ![Prettier](https://skillicons.dev/icons?i=prettier) | |
+| ![React](https://skillicons.dev/icons?i=react) | ![WindiCSS](https://skillicons.dev/icons?i=windicss) | ![Git](https://skillicons.dev/icons?i=git) | |
+| ![Next.js](https://skillicons.dev/icons?i=nextjs) | | ![GitLab](https://skillicons.dev/icons?i=gitlab) | |
+| | | ![VSCode](https://skillicons.dev/icons?i=vscode) | |
+
+*Note: Icons are powered by [Skill Icons](https://github.com/tandpfun/skill-icons).*
 
 ---
 
@@ -50,7 +66,7 @@ Here are a few projects I’m proud of (check them out in the "Pinned" section a
 ### 📌 Support Me  
 If you like my projects, give them a ⭐ on GitHub or share them!  
 You can also support me via:  
-- [Upwork]([https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1](https://www.upwork.com/freelancers/~016ee239ce423c4bb7?mp_source=share))  
+- [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
 - Or just drop me a kind message!
 
 ---
