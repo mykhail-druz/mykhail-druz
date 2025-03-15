@@ -1,33 +1,31 @@
-# 👋 Hi, I’m Mykhail!  
-## Frontend Dev & Cat Lover from Kyiv 🐾🇺🇦  
+# 👋 Hey, I’m Mykhail!  
+## Frontend Dev & Creator from Kyiv 🎮🇺🇦  
 
-Hey there! I’m Mykhail, a frontend developer who loves crafting pretty and functional web experiences with **Next.js**, **React**, and **TypeScript**. I’m based in Kyiv, and when I’m not coding, you can find me sipping coffee or taking long walks around the city. Oh, and I’m a huge cat fan—check out my adorable avatar! 😻  
+Hi there! I’m Mykhail, a frontend developer who’s passionate about crafting beautiful and functional web experiences with **Next.js**, **React**, and **TypeScript**. I’m based in Kyiv, and I love bringing ideas to life—whether it’s through code, games, or just vibing to music. Let’s build something amazing together! 🚀  
 
 ---
 
 ### 💻 My Tech Stack  
-| Languages & Frameworks | Styling | Tools & DevOps | Extras |
-|------------------------|---------|----------------|--------|
-| ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) ![SCSS](https://skillicons.dev/icons?i=sass) | ![Git](https://skillicons.dev/icons?i=git) | ![Figma](https://skillicons.dev/icons?i=figma) ![Netlify](https://skillicons.dev/icons?i=netlify) |
-| ![JavaScript](https://skillicons.dev/icons?i=javascript) | | | |
-| ![TypeScript](https://skillicons.dev/icons?i=typescript) | | | |
-| ![React](https://skillicons.dev/icons?i=react) | ![CSS3](https://skillicons.dev/icons?i=css) ![SCSS](https://skillicons.dev/icons?i=sass) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![MUI](https://skillicons.dev/icons?i=materialui) | | |
-| ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![CSS3](https://skillicons.dev/icons?i=css) ![SCSS](https://skillicons.dev/icons?i=sass) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![MUI](https://skillicons.dev/icons?i=materialui) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) | ![Vercel](https://skillicons.dev/icons?i=vercel) |
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) | | | |
+| Languages & Frameworks | Styling | Tools & Deployment |
+|------------------------|---------|--------------------|
+| ![HTML5](https://skillicons.dev/icons?i=html) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![CSS3](https://skillicons.dev/icons?i=css) ![SCSS](https://skillicons.dev/icons?i=sass) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![MUI](https://skillicons.dev/icons?i=materialui) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) |
+| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs) | | ![Netlify](https://skillicons.dev/icons?i=netlify) ![Vercel](https://skillicons.dev/icons?i=vercel) |
+
+*Powered by [Skill Icons](https://github.com/tandpfun/skill-icons).*
 
 ---
 
-### 🌟 A Bit About Me  
-- I’ve been coding for years and adore building things like landing pages and full websites.  
-- I’m all about clean code, responsive designs, and a sprinkle of magic with animations. ✨  
-- I’ve worked with awesome folks from the US, Canada, Europe, and Asia—3000+ hours of coding fun!  
+### 🌟 About Me  
+- I’ve been coding since 2015, but I got serious about development in 2022—now I’m all in!  
+- I’m obsessed with clean code, responsive designs, and adding a bit of magic with animations. ✨  
+- I’ve worked with awesome people from the US, Canada, Europe, and Asia—3000+ hours of coding joy!  
 
 ---
 
 ### 📊 My Projects  
 Here are some projects I’m proud of (pinned above):  
-- **[trackly-saas](https://github.com/mykhail-druz/trackly-saas)** - A cute landing page that’s super sleek!  
-- **[portfolio-website](https://github.com/mykhail-druz/portfolio-website)** - My personal portfolio to show off my work.  
+- **[trackly-saas](https://github.com/mykhail-druz/trackly-saas)** - A sleek landing page with a modern vibe.  
+- **[portfolio-website](https://github.com/mykhail-druz/portfolio-website)** - My personal portfolio to showcase my creations.  
 
 ![Typing Animation](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
 
@@ -38,20 +36,20 @@ Here are some projects I’m proud of (pinned above):
 
 ---
 
-### 🐱 Fun Facts  
-- Cats are my spirit animals (my avatar says it all, right? 😸).  
-- I started coding in 2015 and haven’t stopped since—it’s my happy place!  
-- I’m a coffee addict and love wandering around Kyiv for inspiration. ☕  
+### 🎮 Things I Love  
+- **Creating & Building**: Whether it’s coding a website or playing games like Minecraft or Stardew Valley, I’m all about bringing ideas to life. 🏰  
+- **Music Vibes**: I love listening to music while coding—it’s the perfect combo for inspiration. 🎶  
+- **Exploring Kyiv**: Long walks around the city always spark new ideas for my next project. 🌳  
 
 ---
 
 ### 📫 Let’s Connect!  
-Got a cool idea or just wanna chat? Reach out:  
+Got an idea or just wanna chat about code, games, or music? Reach out:  
 - 📧 [dda3127@gmail.com](mailto:dda3127@gmail.com)  
 - 💼 [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
 
-Feel free to give my projects a ⭐ if you like them—it means a lot!  
+Give my projects a ⭐ if you like them—it really makes my day!  
 
 ---
 
-*Thanks for visiting! Let’s create something adorable and awesome together! 🐾💻*
+*Thanks for stopping by! Let’s create something cool and inspiring together! 🌟💻*
