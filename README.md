@@ -24,8 +24,11 @@ Hi there! I’m Mykhail, a frontend developer who’s passionate about crafting 
 
 ### 📊 My Projects  
 Here are some projects I’m proud of (pinned above):  
-- **[trackly-saas](https://github.com/mykhail-druz/trackly-saas)** - A sleek landing page with a modern vibe.  
-- **[portfolio-website](https://github.com/mykhail-druz/portfolio-website)** - My personal portfolio to showcase my creations.  
+- **[trackly-saas](https://github.com/mykhail-druz/trackly-saas)** - A sleek landing page with a modern vibe.
+- **[xpense-starter](https://github.com/mykhail-druz/xpense-starter)** - SaaS Money Tracker
+- **[claim-your-pcp](https://github.com/mykhail-druz/claim-your-pcp)** - Car Financial Solicitors
+- **[portfolio-website](https://github.com/mykhail-druz/portfolio-website)** - My personal portfolio to showcase my creations.
+
 
 ![Typing Animation](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
 
