@@ -55,7 +55,7 @@ You can also support me via:
 
 ---
 
-![Coding Animation]([https://media.giphy.com/media/3o7TKRDnWobgaY5HHi/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlqZmY1bDNqcDhxN3cyaGRxN3lucmVoZ3g4b2tkaWhmMm5iaWZ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif))
+![Coding Animation]([./assets/code-gif.gif)
 
 ---
 
