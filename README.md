@@ -8,7 +8,7 @@ Hey there! I’m Mykhail, a frontend developer who loves crafting pretty and fun
 ### 💻 My Tech Stack  
 | Languages & Frameworks | Styling | Tools & DevOps | Extras |
 |------------------------|---------|----------------|--------|
-| ![HTML5](https://skillicons.dev/icons?i=html) | ![SCSS](https://skillicons.dev/icons?i=sass) ![CSS3](https://skillicons.dev/icons?i=css) | ![Git](https://skillicons.dev/icons?i=git) | ![Figma](https://skillicons.dev/icons?i=figma) ![Netlify](https://skillicons.dev/icons?i=netlify) |
+| ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) ![SCSS](https://skillicons.dev/icons?i=sass) | ![Git](https://skillicons.dev/icons?i=git) | ![Figma](https://skillicons.dev/icons?i=figma) ![Netlify](https://skillicons.dev/icons?i=netlify) |
 | ![JavaScript](https://skillicons.dev/icons?i=javascript) | | | |
 | ![TypeScript](https://skillicons.dev/icons?i=typescript) | | | |
 | ![React](https://skillicons.dev/icons?i=react) | ![CSS3](https://skillicons.dev/icons?i=css) ![SCSS](https://skillicons.dev/icons?i=sass) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![MUI](https://skillicons.dev/icons?i=materialui) | | |
