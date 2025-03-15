@@ -55,7 +55,7 @@ You can also support me via:
 
 ---
 
-![Coding Animation]([./assets/code-gif.gif)
+![Typing Animation](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
 
 ---
 
