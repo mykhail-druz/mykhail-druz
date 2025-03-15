@@ -8,11 +8,11 @@ Hey there! I’m Mykhail, a frontend developer who loves crafting pretty and fun
 ### 💻 My Tech Stack  
 | Languages & Frameworks | Styling | Tools & DevOps | Extras |
 |------------------------|---------|----------------|--------|
-| ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) | ![Git](https://skillicons.dev/icons?i=git) | ![Figma](https://skillicons.dev/icons?i=figma) |
-| ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![SCSS](https://skillicons.dev/icons?i=sass) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Figma](https://skillicons.dev/icons?i=figma) |
-| ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Figma](https://skillicons.dev/icons?i=figma) |
-| ![React](https://skillicons.dev/icons?i=react) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | | ![Figma](https://skillicons.dev/icons?i=figma) |
-| ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![MUI](https://skillicons.dev/icons?i=materialui) | | ![Figma](https://skillicons.dev/icons?i=figma) |
+| ![HTML5](https://skillicons.dev/icons?i=html) | ![CSS3](https://skillicons.dev/icons?i=css) | ![Git](https://skillicons.dev/icons?i=git) | ![Figma](https://skillicons.dev/icons?i=figma) ![Netlify](https://skillicons.dev/icons?i=netlify) |
+| ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![SCSS](https://skillicons.dev/icons?i=sass) | ![GitHub](https://skillicons.dev/icons?i=github) | |
+| ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) | ![Docker](https://skillicons.dev/icons?i=docker) | |
+| ![React](https://skillicons.dev/icons?i=react) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | | |
+| ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![MUI](https://skillicons.dev/icons?i=materialui) | | |
 | ![Node.js](https://skillicons.dev/icons?i=nodejs) | | | |
 
 *Powered by [Skill Icons](https://github.com/tandpfun/skill-icons).*
