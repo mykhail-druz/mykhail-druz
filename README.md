@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Mykhail!  
-## Frontend Dev & Creator from Kyiv ⭐️
+## Full-Stack Dev & Creator from Kyiv ⭐️
 
-Hi there! I’m Mykhail, a frontend developer who’s passionate about crafting beautiful and functional web experiences with **Next.js**, **React**, and **TypeScript**. I’m based in Kyiv, and I love bringing ideas to life—whether it’s through code, games, or just vibing to music. Let’s build something amazing together! 🚀  
+Hi there! I’m Mykhail, a Full-Stack developer who’s passionate about crafting beautiful and functional web experiences with **Next.js**, **React**, and **TypeScript**. I’m based in Kyiv, and I love bringing ideas to life—whether it’s through code, games, or just vibing to music. Let’s build something amazing together! 🚀  
 
 ---
 
@@ -18,7 +18,7 @@ Hi there! I’m Mykhail, a frontend developer who’s passionate about crafting 
 ### 🌟 About Me  
 - I’ve been coding since 2015, but I got serious about development in 2022—now I’m all in!  
 - I’m obsessed with clean code, responsive designs, and adding a bit of magic with animations. ✨  
-- I’ve worked with awesome people from the US, Canada, Europe, and Asia—3000+ hours of coding joy!  
+- I’ve worked with awesome people from the US, Canada, Europe, and Asia—4700+ hours of coding joy!  
 
 ---
 
