@@ -30,7 +30,7 @@ Hi there! I'm Mykhail, a Full-Stack developer who builds production-ready applic
 
 ### 🚀 Experience & Background
 
-- **4+ years** Full-Stack Development
+- *3+ years** Full-Stack Development
 - **Frontend Lead**: Enterprise ERP system
 - **Co-founder & Tech Lead**: [tech-cortex.com](https://tech-cortex.com) - E-commerce platform with real-time inventory sync across 3 distributors, handling 500+ SKUs
 - **Solo developer** on multiple projects - full technical ownership from architecture to deployment
