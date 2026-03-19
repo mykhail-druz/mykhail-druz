@@ -1,155 +1,116 @@
-# 👋 Hey, I'm Mykhail!  
-## Full-Stack Developer & Product Builder from Kyiv ⭐️
+# Hey, I'm Mykhail 👋
 
-Hi there! I'm Mykhail, a Full-Stack developer who builds production-ready applications that actually survive real business growth. I specialize in **Next.js**, **React**, and **TypeScript**, crafting everything from e-commerce platforms to enterprise systems. Based in Kyiv, I'm passionate about clean architecture, scalable solutions, and bringing ideas to life. Let's build something amazing together! 🚀  
+**Full-Stack Developer · Product Builder · Ukrainian based in Europe**
 
----
+I build production-ready web applications that survive real business growth. My stack centers on **Next.js 16**, **React 19**, **TypeScript**, and **Supabase** — from e-commerce platforms to SaaS products to enterprise systems. I ship fast, own projects end-to-end, and write code that other developers can actually work with.
 
-### 💼 What I Do
-
-**E-commerce & Online Stores**
-- Full platforms: catalog, cart, checkout, orders, customer accounts
-- Payment processing (Stripe webhooks, subscriptions, billing logic)
-- Admin dashboards for inventory & order management
-- Shipping API integrations & real-time distributor syncing
-- Systems hardened for actual production load
-
-**Business Applications & Enterprise Systems**
-- ERP modules with role-based access control
-- Custom CRMs built from scratch
-- Complex analytics dashboards
-- Workflow automation tied to real business processes
-
-**Technical Integration & APIs**
-- Payment gateways (Stripe, PayPal)
-- Shipping providers (UPS, FedEx)
-- Third-party services and webhooks
-- RESTful APIs & automated workflows
+**4700+ hours** with clients from US, Canada, Europe, and Asia · **3+ years** professional full-stack development
 
 ---
 
-### 🚀 Experience & Background
+### What I Build
 
-- *3+ years** Full-Stack Development
-- **Frontend Lead**: Enterprise ERP system
-- **Co-founder & Tech Lead**: [tech-cortex.com](https://tech-cortex.com) - E-commerce platform with real-time inventory sync across 3 distributors, handling 500+ SKUs
-- **Solo developer** on multiple projects - full technical ownership from architecture to deployment
-- **4700+ hours** working with clients from US, Canada, Europe, and Asia
+**E-commerce & Platforms** — Full catalog-to-checkout flows, Stripe payment processing (webhooks, subscriptions, billing), admin dashboards, shipping API integrations (UPS, FedEx), real-time inventory sync across multiple distributors.
 
-I've launched my own e-commerce platform, so I know what it takes to ship a real product. I make architecture decisions, write production-ready code, and figure things out without hand-holding.
+**SaaS Products** — AI-powered tools, PDF generation pipelines, authentication flows, subscription billing, SEO/content systems. I've built and launched my own SaaS products, not just client work.
+
+**Business Applications** — ERP modules with RBAC, custom CRMs, analytics dashboards, workflow automation. Production systems handling real business load.
+
+**API Integrations** — Payment gateways (Stripe, PayPal), shipping providers, AI APIs (OpenAI, Anthropic), third-party webhooks, custom REST APIs.
 
 ---
 
-### 💻 My Tech Stack  
+### Tech Stack
 
 ```yaml
 Frontend:
-  Core: [HTML5, CSS3, JavaScript, TypeScript]
-  Frameworks: [React 19, Next.js 16, Three.js]
-  State Management: [Redux, React Query]
-  Styling: [Tailwind CSS, SCSS/Sass, Material UI, Bootstrap, Shadcn/ui]
-  
+  Core: [TypeScript, React 19, Next.js 16]
+  State: [React Query, Redux]
+  Styling: [Tailwind CSS, shadcn/ui, SCSS, Material UI]
+
 Backend:
-  Runtime: [Node.js, Express]
-  Databases: [PostgreSQL, Supabase, Firebase]
-  Architecture: [RESTful APIs, Webhooks]
-  
+  Primary: [Supabase (PostgreSQL, Auth, RLS, Edge Functions, Storage)]
+  Also: [Node.js, Express, Firebase]
+  Architecture: [Server Actions, REST APIs, Webhooks]
+
 Payments & Integrations:
-  Payment Processing: [Stripe API (webhooks, subscriptions), PayPal]
-  Shipping APIs: [UPS, FedEx]
-  AI Integrations: [OpenAI API, ChatGPT API]
-  Third-party: [Distributor APIs, Custom integrations]
-  
-Tools & DevOps:
-  Version Control: [Git, GitHub, GitLab, Bitbucket]
-  Deployment: [Vercel, Netlify, Docker]
-  Build Tools: [webpack, npm, CI/CD]
+  Payments: [Stripe (webhooks, subscriptions, Connect), PayPal]
+  Shipping: [UPS, FedEx APIs]
+  AI: [OpenAI API, Anthropic API]
+  Email: [Resend]
+
+AI-Assisted Development:
+  Tools: [Cursor, Claude Code, GitHub Copilot]
+  Workflow: [AI-driven architecture planning, code generation, debugging]
+
+DevOps:
+  Deployment: [Vercel, Docker]
+  DNS/Infra: [Cloudflare, custom domain setups]
+  VCS: [Git, GitHub, GitLab]
   Design: [Figma]
 ```
 
-**Visual Stack:**
-
-| Frontend | Backend & Data | Tools |
-|----------|---------------|-------|
-| ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) |
-| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![Three.js](https://skillicons.dev/icons?i=threejs) | ![Supabase](https://skillicons.dev/icons?i=supabase) ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Figma](https://skillicons.dev/icons?i=figma) |
-| ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![SCSS](https://skillicons.dev/icons?i=sass) ![MUI](https://skillicons.dev/icons?i=materialui) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | | ![GitLab](https://skillicons.dev/icons?i=gitlab) |
-
-*Powered by [Skill Icons](https://github.com/tandpfun/skill-icons).*
+| Frontend | Backend & Data | DevOps & Tools |
+|----------|---------------|----------------|
+| ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) | ![Supabase](https://skillicons.dev/icons?i=supabase) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Vercel](https://skillicons.dev/icons?i=vercel) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma) |
 
 ---
 
-### 🌟 About Me  
+### Currently Building
 
-- **Since 2015** - Started my coding journey
-- **Since 2022** - Got serious about professional development—now I'm all in!
-- Obsessed with clean code, scalable architecture, and responsive designs that actually work under load ✨  
-- I write maintainable code that other developers can work with
-- I focus on shipping features that move businesses forward, not perfect code that never launches
-- Building products end-to-end: from architecture decisions to production deployment
+🔨 **AI-Powered SaaS** — Content generation platform targeting the US market. Next.js + Supabase + OpenAI API. Full product: auth, subscriptions, PDF generation pipeline, SEO/GEO strategy.
 
----
+🔨 **Industry Job Platform** — Niche hiring platform for the US market. Next.js 15 + Supabase + Resend. MVP with employer/candidate flows, application management, email notifications.
 
-### 📊 Featured Projects  
-
-**Production Applications**
-- **[tech-cortex.com](https://tech-cortex.com)** - E-commerce platform with real-time inventory sync, 500+ SKUs, 3 distributor integrations
-- **Enterprise ERP System** - Frontend Lead role, role-based access, complex workflows
-
-**Open Source & Portfolio**
-- **[trackly-saas](https://github.com/mykhail-druz/trackly-saas)** - Modern SaaS landing page
-- **[xpense-starter](https://github.com/mykhail-druz/xpense-starter)** - SaaS Money Tracker with clean UI
-- **[claim-your-pcp](https://github.com/mykhail-druz/claim-your-pcp)** - Car Financial Solicitors website
-- **[rentouts](https://github.com/mykhail-druz/rentouts)** - Modular, component-driven architecture
-- **[portfolio-website](https://github.com/mykhail-druz/portfolio-website)** - Personal portfolio showcase
-
-![Typing Animation](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+🔨 **Photographer Platform** — Booking & portfolio platform for the Israeli market. Next.js + Supabase + local payment gateway integration.
 
 ---
 
-### 📈 GitHub Stats  
+### Production Experience
+
+**Co-founder & Tech Lead** — [tech-cortex.com](https://tech-cortex.com)
+E-commerce platform with real-time inventory sync across 3 distributors, 500+ SKUs, Stripe payments, automated order workflows.
+
+**Frontend Lead** — Enterprise ERP System
+Role-based access control, complex multi-step workflows, analytics dashboards. Led frontend architecture decisions.
+
+**Solo Developer** — Multiple client projects
+Full technical ownership from database schema to production deployment. E-commerce, healthcare, SaaS verticals.
+
+---
+
+### Open Source & Portfolio
+
+- **[trackly-saas](https://github.com/mykhail-druz/trackly-saas)** — SaaS landing page template
+- **[xpense-starter](https://github.com/mykhail-druz/xpense-starter)** — SaaS money tracker with clean UI
+- **[claim-your-pcp](https://github.com/mykhail-druz/claim-your-pcp)** — Financial solicitors website
+- **[rentouts](https://github.com/mykhail-druz/rentouts)** — Modular component-driven architecture
+- **[portfolio-website](https://github.com/mykhail-druz/portfolio-website)** — Personal portfolio
+
+---
+
+### How I Work
+
+I use AI coding tools (Cursor, Claude Code) as force multipliers — not as a crutch. I architect systems, make technical decisions, and use AI to move faster on implementation. The result: I ship features at solo-developer speed with production-grade quality.
+
+- **End-to-end ownership** — architecture → development → deployment → maintenance
+- **Production-first mindset** — code that handles real traffic, not just demos
+- **Clear communication** — regular updates, predictable timelines
+- **Business-focused** — features that move the needle, shipped on time
+
+---
+
+### GitHub Stats
 
 ![Mykhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mykhail-druz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykhail-druz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
 ---
 
-### 🎯 How I Work
+### Let's Connect
 
-- **Clear Communication**: Regular updates, so you know exactly what's happening and when it'll be done
-- **Production-Ready**: Code that survives real business load, not just demos
-- **End-to-End Ownership**: I handle architecture, development, deployment, and everything in between
-- **Business-Focused**: Features that move your business forward, delivered on time
+Building something and need a developer who can own it end-to-end? Let's talk.
 
----
+📧 [dda3127@gmail.com](mailto:dda3127@gmail.com) · 💼 [Upwork](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1) · 💬 [Discord: mykhail_druz](https://discordapp.com/users/424606098033606670)
 
-### 🎮 Things I Love 🎵 
-
-- **Creating & Building**: Whether it's coding a production app, architecting systems, or playing games like Minecraft/Satisfactory/Civilization—I'm all about bringing ideas to life 🏰  
-- **Music Vibes**: Coding with music is my favorite combo for inspiration and flow state 🎶  
-- **Exploring Kyiv**: Long walks around the city always spark new ideas for my next project 🌳  
-- **Problem Solving**: I love figuring out complex technical challenges and making them work elegantly
-
----
-
-### 📫 Let's Connect!  
-
-Got a project idea or want to chat about code, architecture, or business applications? Reach out:  
-
-- 📧 Email: [dda3127@gmail.com](mailto:dda3127@gmail.com)  
-- 💼 Upwork: [My Profile](https://www.upwork.com/freelancers/~016ee239e423c4b7b7?viewMode=1)  
-- 🎮 Discord: [mykhail_druz](https://discordapp.com/users/424606098033606670)  
-
-**Available for**: Full-stack projects, e-commerce platforms, business applications, enterprise systems, technical integrations
-
-Give my projects a ⭐ if you like them—it really makes my day!
-
----
-
-<div align="center">
-
-### 💡 "If you need someone who can own a project end-to-end and actually deliver—let's talk."
-
-*Thanks for stopping by! Let's create something that survives and thrives in production! 🌟💻*
-
-</div>
+**Available for**: Full-stack projects, e-commerce platforms, SaaS development, business applications, technical integrations
